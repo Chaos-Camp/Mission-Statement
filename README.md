@@ -34,7 +34,7 @@ Whether you're a newbie trying to understand the intricacies of real-world code 
 
 2. **Create a Branch**: Make a new branch for your challenge or feature. Use a clear name, e.g., `feature/your-challenge-name`.
 
-3. **Commit Your Changes**: Make sure your code meets our [guidelines](#link-to-code-guidelines) and has sufficient documentation.
+3. **Commit Your Changes**: Make sure your code follows best pratices.
 
 4. **Push to the Branch**: Push your contributions to your branch on your forked repository.
 
