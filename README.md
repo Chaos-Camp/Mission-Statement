@@ -28,16 +28,24 @@ Whether you're a newbie trying to understand the intricacies of real-world code 
 
 ---
 
-### Code of Conduct
+### How to Contribute:
 
-At Chaos-Camp, we pride ourselves on fostering an inclusive, supportive, and respectful community. Before diving in, please take a moment to go through our [Code of Conduct](#link-to-your-code-of-conduct).
+1. **Fork the Repository**: Start by forking [Chaos-Camp's main repository](#link-to-main-repo).
 
----
+2. **Create a Branch**: Make a new branch for your challenge or feature. Use a clear name, e.g., `feature/your-challenge-name`.
 
-### Get Started
+3. **Commit Your Changes**: Make sure your code meets our [guidelines](#link-to-code-guidelines) and has sufficient documentation.
 
-Ready to dive into the chaos? Check out our list of [Challenges](#link-to-your-challenges) and get started. Need help or have suggestions? Reach out to our [Community Forum](#link-to-forum).
+4. **Push to the Branch**: Push your contributions to your branch on your forked repository.
 
----
+5. **Submit a Pull Request**: Head over to the 'Pull Requests' tab of our main repository and click on 'New Pull Request'. Ensure you provide a detailed description of your challenge or feature.
+
+### Review:
+
+Once a pull request is submitted, our team will review it. We appreciate constructive feedback and collaboration, so don't hesitate to discuss or iterate upon your submissions.
+
+### Recognition:
+
+Contributors are the backbone of our community. As a token of our gratitude, we highlight significant contributors on our [Contributors' Wall](#link-to-contributors-wall).
 
 Join us, as we embrace the chaos and turn it into order, one challenge at a time.
