@@ -30,7 +30,7 @@ Whether you're a newbie trying to understand the intricacies of real-world code 
 
 ### How to Contribute:
 
-1. **Fork the Repository**: Start by forking [Chaos-Camp's main repository](#link-to-main-repo).
+1. **Fork the Repository**: Start by forking [Chaos-Camp's main repository](https://github.com/Chaos-Camp/Mission-Statement).
 
 2. **Create a Branch**: Make a new branch for your challenge or feature. Use a clear name, e.g., `feature/your-challenge-name`.
 
@@ -44,8 +44,5 @@ Whether you're a newbie trying to understand the intricacies of real-world code 
 
 Once a pull request is submitted, our team will review it. We appreciate constructive feedback and collaboration, so don't hesitate to discuss or iterate upon your submissions.
 
-### Recognition:
-
-Contributors are the backbone of our community. As a token of our gratitude, we highlight significant contributors on our [Contributors' Wall](#link-to-contributors-wall).
 
 Join us, as we embrace the chaos and turn it into order, one challenge at a time.
