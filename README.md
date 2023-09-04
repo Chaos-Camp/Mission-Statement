@@ -1,4 +1,4 @@
-![Chaos-Camp Logo](chaos.png)
+![Chaos-Camp Logo](cc.png)
 ## Welcome to Chaos-Camp! 🌪️
 
 ### Mission Statement
